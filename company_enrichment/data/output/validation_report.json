@@ -1,0 +1,221 @@
+{
+  "generated_at": "2026-07-15T06:03:17Z",
+  "total_companies": 15,
+  "total_processed": 15,
+  "total_valid": 0,
+  "total_invalid": 15,
+  "total_warnings": 17,
+  "total_success": 0,
+  "total_failed": 15,
+  "duplicates_removed": 1,
+  "missing_ceo": 15,
+  "missing_founder": 15,
+  "duplicate_domains_found": 1,
+  "duplicate_names_found": 0,
+  "status_found": 0,
+  "status_partially_found": 0,
+  "status_not_found": 0,
+  "status_needs_review": 15,
+  "fields_with_name": 15,
+  "fields_with_website": 15,
+  "fields_with_description": 0,
+  "fields_with_industry": 0,
+  "fields_with_ceo": 0,
+  "fields_with_founder": 0,
+  "fields_with_email": 1,
+  "fields_with_phone": 3,
+  "fields_with_linkedin": 13,
+  "average_confidence_score": 87.67,
+  "min_confidence_score": 87,
+  "max_confidence_score": 90,
+  "issue_counts": {
+    "MISSING_DESCRIPTION": 15,
+    "MISSING_INDUSTRY": 15,
+    "STATUS_NEEDS_REVIEW": 15,
+    "DUPLICATE_DOMAIN": 2
+  },
+  "records": [
+    {
+      "company_id": "739739cd-0c06-6b8c-4795-8973dc29a46c",
+      "name": "Salesforce",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "019d0e5d-4150-2987-c6a6-8080a7039ba9",
+      "name": "Hubspot",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "d16786f7-5d8f-aa53-0716-59346c303c5a",
+      "name": "Shopify",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "03080ec3-2a4d-672b-c66b-c7d6b9203b06",
+      "name": "Stripe",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW",
+        "DUPLICATE_DOMAIN"
+      ]
+    },
+    {
+      "company_id": "f1b83167-039e-027c-6ab0-d82df5dfac05",
+      "name": "Twilio",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "efd504ee-ccc8-0280-a90d-98b1bc60ad8b",
+      "name": "Zendesk",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "52c47f93-1415-599e-5eba-7593a483ea48",
+      "name": "Atlassian",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "2146ca45-0165-ec47-653f-8d16e2e8dff0",
+      "name": "Datadog",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "a38750dc-04eb-34e1-0f0d-8d41ded9f53d",
+      "name": "Cloudflare",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "10da8e1b-be25-4368-7d73-dd2eedce9f0e",
+      "name": "Mongodb",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "06897c68-73c6-f3cf-a00e-90b5a3b2a381",
+      "name": "Microsoft Corporation",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "011f492f-79d1-5218-a30a-3b38d12067c3",
+      "name": "Snow Software",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "6023023e-1d03-976d-ff0f-f665259006a9",
+      "name": "Stripe Inc",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW",
+        "DUPLICATE_DOMAIN"
+      ]
+    },
+    {
+      "company_id": "59c470c5-6aba-a7c9-4811-84526f69ba69",
+      "name": "Vercel",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    },
+    {
+      "company_id": "06804863-255c-e6eb-936c-b72eb13b2279",
+      "name": "Netlify",
+      "is_valid": false,
+      "errors": [
+        "MISSING_DESCRIPTION",
+        "MISSING_INDUSTRY"
+      ],
+      "warnings": [
+        "STATUS_NEEDS_REVIEW"
+      ]
+    }
+  ]
+}
